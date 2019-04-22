@@ -1,0 +1,79 @@
+.btn_area{
+    text-align: center;
+    margin-top:40%;
+}
+
+.btn_img{
+    max-height: 100%;
+    max-width: 100%;
+}
+.btn{
+    background-color:rgba(255,255,0,0);
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    width:30%;
+    border:none;
+}
+@font-face{
+    font-family: "dot";
+    src: url("../css/DungGeunMo.ttf");
+}
+.words_area{
+    text-align: center;
+    margin-top: 20%;
+}
+.words{
+    font-family: dot;
+    color:#FAF7A2;
+    font-size: 200%;
+}
+
+body{
+    background-color: #313131;
+}
+
+.words2_area{
+    margin-top: 10%;
+}
+.table_area{
+    margin-top: 10%;
+    margin-bottom: 15%;
+}
+.words2{
+    font-family: dot;
+    color:#FAF7A2;
+    font-size: 180%;
+}
+.name{
+    font-family: dot;
+    color:#FFFFFF;
+    font-size: 100%;
+    text-align: center;
+}
+.number{
+    font-family: dot;
+    color:#FFFFFF;
+    font-size: 100%;
+    text-align: center;
+}
+table {
+    width:100%;
+}
+th, td {
+    padding: 10px;
+}
+.warning_area{
+    margin-top: 10%;
+}
+.warning_title{
+    font-family: dot;
+    color:#F43A3D;
+    font-size: 200%;
+}
+
+.warning_post{
+    font-family: dot;
+    color:#FFFFFF;
+    font-size: 100%;
+}
